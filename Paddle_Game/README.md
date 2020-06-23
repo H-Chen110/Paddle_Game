@@ -16,3 +16,5 @@ replay memory：定义经验池
 train：训练和测试部分
 
 paddle game：项目主函数
+
+.ckpt：保存模型
