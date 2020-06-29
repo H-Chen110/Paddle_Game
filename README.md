@@ -2,7 +2,7 @@
 最近参加了百度的从零入门学习强化学习课程，最后使用强化学习的方法来尝试实现Paddle接球游戏。
 
 # 配置说明
-强化学习框架：parl 1.6.3 (附github链接)
+强化学习框架：parl 1.3.1 (附github链接)
 
 parl：https://github.com/PaddlePaddle/PARL
 
